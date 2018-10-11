@@ -1,0 +1,2 @@
+xlrd is used to import excel data in python
+

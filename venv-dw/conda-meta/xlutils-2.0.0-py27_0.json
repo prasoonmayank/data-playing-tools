@@ -1,0 +1,306 @@
+{
+  "arch": "x86_64",
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/free/linux-64",
+  "constrains": [],
+  "date": "2016-07-19",
+  "depends": [
+    "python 2.7*",
+    "xlrd >=0.7.2",
+    "xlwt >=0.7.4"
+  ],
+  "extracted_package_dir": "/home/thebrainer/anaconda3/pkgs/xlutils-2.0.0-py27_0",
+  "features": "",
+  "files": [
+    "bin/margins",
+    "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/entry_points.txt",
+    "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/not-zip-safe",
+    "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/requires.txt",
+    "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/top_level.txt",
+    "lib/python2.7/site-packages/xlutils/__init__.py",
+    "lib/python2.7/site-packages/xlutils/__init__.pyc",
+    "lib/python2.7/site-packages/xlutils/compat.py",
+    "lib/python2.7/site-packages/xlutils/compat.pyc",
+    "lib/python2.7/site-packages/xlutils/copy.py",
+    "lib/python2.7/site-packages/xlutils/copy.pyc",
+    "lib/python2.7/site-packages/xlutils/display.py",
+    "lib/python2.7/site-packages/xlutils/display.pyc",
+    "lib/python2.7/site-packages/xlutils/filter.py",
+    "lib/python2.7/site-packages/xlutils/filter.pyc",
+    "lib/python2.7/site-packages/xlutils/license.txt",
+    "lib/python2.7/site-packages/xlutils/margins.py",
+    "lib/python2.7/site-packages/xlutils/margins.pyc",
+    "lib/python2.7/site-packages/xlutils/save.py",
+    "lib/python2.7/site-packages/xlutils/save.pyc",
+    "lib/python2.7/site-packages/xlutils/styles.py",
+    "lib/python2.7/site-packages/xlutils/styles.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/__init__.py",
+    "lib/python2.7/site-packages/xlutils/tests/__init__.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/compat.py",
+    "lib/python2.7/site-packages/xlutils/tests/compat.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/date.xls",
+    "lib/python2.7/site-packages/xlutils/tests/datetime.xls",
+    "lib/python2.7/site-packages/xlutils/tests/fixtures.py",
+    "lib/python2.7/site-packages/xlutils/tests/fixtures.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/ragged.xls",
+    "lib/python2.7/site-packages/xlutils/tests/sample.xlsx",
+    "lib/python2.7/site-packages/xlutils/tests/test.xls",
+    "lib/python2.7/site-packages/xlutils/tests/test_copy.py",
+    "lib/python2.7/site-packages/xlutils/tests/test_copy.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/test_docs.py",
+    "lib/python2.7/site-packages/xlutils/tests/test_docs.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/test_filter.py",
+    "lib/python2.7/site-packages/xlutils/tests/test_filter.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/test_save.py",
+    "lib/python2.7/site-packages/xlutils/tests/test_save.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/test_styles.py",
+    "lib/python2.7/site-packages/xlutils/tests/test_styles.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/test_view.py",
+    "lib/python2.7/site-packages/xlutils/tests/test_view.pyc",
+    "lib/python2.7/site-packages/xlutils/tests/testall.xls",
+    "lib/python2.7/site-packages/xlutils/tests/testnoformatting.xls",
+    "lib/python2.7/site-packages/xlutils/version.txt",
+    "lib/python2.7/site-packages/xlutils/view.py",
+    "lib/python2.7/site-packages/xlutils/view.pyc"
+  ],
+  "fn": "xlutils-2.0.0-py27_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/home/thebrainer/anaconda3/pkgs/xlutils-2.0.0-py27_0",
+    "type": 1
+  },
+  "md5": "c18c84b3d25efcbe1305196a10660210",
+  "name": "xlutils",
+  "package_tarball_full_path": "/home/thebrainer/anaconda3/pkgs/xlutils-2.0.0-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/margins",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256_in_prefix": "986c9a3070f22da757baa5cf6f62384a1f2d6424cb5939adab1ee180fa8d5a65"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/entry_points.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/not-zip-safe",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils-2.0.0-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/copy.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/copy.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/display.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/display.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/filter.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/filter.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/license.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/margins.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/margins.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/save.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/save.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/styles.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/styles.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/date.xls",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/datetime.xls",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/fixtures.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/fixtures.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/ragged.xls",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/sample.xlsx",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test.xls",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_copy.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_copy.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_docs.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_docs.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_filter.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_filter.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_save.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_save.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_styles.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_styles.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_view.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/test_view.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/testall.xls",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/tests/testnoformatting.xls",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/version.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/view.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/xlutils/view.pyc",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "None",
+  "size": 69615,
+  "subdir": "linux-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/free/linux-64/xlutils-2.0.0-py27_0.tar.bz2",
+  "version": "2.0.0"
+}

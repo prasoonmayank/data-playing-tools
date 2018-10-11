@@ -1,0 +1,74 @@
+==> 2018-10-11 14:08:18 <==
+# cmd: /home/thebrainer/anaconda3/bin/conda create --prefix=venv-dw
+# conda version: 4.5.11
+==> 2018-10-11 14:17:43 <==
+# cmd: /home/thebrainer/anaconda3/bin/conda install -c anaconda xlrd
+# conda version: 4.5.11
++anaconda::ca-certificates-2018.03.07-0
++anaconda::certifi-2018.8.24-py37_1
++anaconda::libedit-3.1.20170329-h6b74fdf_2
++anaconda::libffi-3.2.1-h4deb6c0_3
++anaconda::libgcc-ng-8.2.0-hdf63c60_1
++anaconda::libstdcxx-ng-8.2.0-hdf63c60_1
++anaconda::ncurses-6.1-hf484d3e_0
++anaconda::openssl-1.0.2p-h14c3975_0
++anaconda::pip-10.0.1-py37_0
++anaconda::python-3.7.0-h6e4f718_3
++anaconda::readline-7.0-h7b6447c_5
++anaconda::setuptools-40.4.3-py37_0
++anaconda::sqlite-3.25.2-h7b6447c_0
++anaconda::tk-8.6.8-hbc83047_0
++anaconda::wheel-0.32.1-py37_0
++anaconda::xlrd-1.1.0-py37_1
++anaconda::xz-5.2.4-h14c3975_4
++anaconda::zlib-1.2.11-hfbfcf68_1
+# update specs: ['xlrd']
+==> 2018-10-11 14:20:27 <==
+# cmd: /home/thebrainer/anaconda3/bin/conda install -c anaconda xlwt
+# conda version: 4.5.11
++anaconda::xlwt-1.3.0-py37_0
+# update specs: ['xlwt']
+==> 2018-10-11 14:21:18 <==
+# cmd: /home/thebrainer/anaconda3/bin/conda install -c anaconda xlutils
+# conda version: 4.5.11
+-anaconda::certifi-2018.8.24-py37_1
+-anaconda::pip-10.0.1-py37_0
+-anaconda::python-3.7.0-h6e4f718_3
+-anaconda::setuptools-40.4.3-py37_0
+-anaconda::wheel-0.32.1-py37_0
+-anaconda::xlrd-1.1.0-py37_1
+-anaconda::xlwt-1.3.0-py37_0
++anaconda::certifi-2018.8.24-py35_1
++anaconda::pip-10.0.1-py35_0
++anaconda::python-3.5.6-hc3d631a_0
++anaconda::setuptools-40.2.0-py35_0
++anaconda::wheel-0.31.1-py35_0
++anaconda::xlrd-1.1.0-py35_1
++anaconda::xlutils-2.0.0-py35_0
++anaconda::xlwt-1.3.0-py35h884a0cf_0
+# update specs: ['xlutils']
+==> 2018-10-11 15:07:33 <==
+# cmd: /home/thebrainer/anaconda3/bin/conda install -c conda-forge pdfminer
+# conda version: 4.5.11
+-anaconda::ca-certificates-2018.03.07-0
+-anaconda::certifi-2018.8.24-py35_1
+-anaconda::openssl-1.0.2p-h14c3975_0
+-anaconda::pip-10.0.1-py35_0
+-anaconda::python-3.5.6-hc3d631a_0
+-anaconda::setuptools-40.2.0-py35_0
+-anaconda::wheel-0.31.1-py35_0
+-anaconda::xlrd-1.1.0-py35_1
+-anaconda::xlutils-2.0.0-py35_0
+-anaconda::xlwt-1.3.0-py35h884a0cf_0
++conda-forge::ca-certificates-2018.8.24-ha4d7672_0
++conda-forge::certifi-2018.8.24-py27_1001
++conda-forge::openssl-1.0.2p-h470a237_0
++conda-forge::pdfminer-20140328-py27_0
++conda-forge::pip-18.1-py27_1000
++conda-forge::python-2.7.15-h33da82c_1
++conda-forge::setuptools-40.4.3-py27_0
++conda-forge::wheel-0.32.1-py27_0
++conda-forge::xlrd-1.1.0-py_2
++conda-forge::xlwt-1.3.0-py_1
++defaults::xlutils-2.0.0-py27_0
+# update specs: ['pdfminer']

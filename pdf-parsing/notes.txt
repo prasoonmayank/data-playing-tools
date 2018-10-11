@@ -1,0 +1,12 @@
+PDFs are difficult to work with because they can be really unpredictable formats.
+
+PDF tools handle the documents in multiple ways. Some of the ways it to convert the PDFs into text.
+
+We will be using PyPDF2 rather than the slate library because of better support present with the PyPDF2 library
+
+In PyPDF2 library, the text is in the unicode format. While the pdf page is in the class format
+
+
+
+
+

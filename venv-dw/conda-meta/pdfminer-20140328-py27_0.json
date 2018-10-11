@@ -1,0 +1,329 @@
+{
+  "arch": "x86_64",
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "python 2.7*"
+  ],
+  "extracted_package_dir": "/home/thebrainer/anaconda3/pkgs/pdfminer-20140328-py27_0",
+  "features": "",
+  "files": [
+    "bin/dumppdf.py",
+    "bin/dumppdf.pyc",
+    "bin/latin2ascii.py",
+    "bin/latin2ascii.pyc",
+    "bin/pdf2txt.py",
+    "bin/pdf2txt.pyc",
+    "lib/python2.7/site-packages/pdfminer-20140328-py2.7.egg-info",
+    "lib/python2.7/site-packages/pdfminer/__init__.py",
+    "lib/python2.7/site-packages/pdfminer/__init__.pyc",
+    "lib/python2.7/site-packages/pdfminer/arcfour.py",
+    "lib/python2.7/site-packages/pdfminer/arcfour.pyc",
+    "lib/python2.7/site-packages/pdfminer/ascii85.py",
+    "lib/python2.7/site-packages/pdfminer/ascii85.pyc",
+    "lib/python2.7/site-packages/pdfminer/ccitt.py",
+    "lib/python2.7/site-packages/pdfminer/ccitt.pyc",
+    "lib/python2.7/site-packages/pdfminer/cmapdb.py",
+    "lib/python2.7/site-packages/pdfminer/cmapdb.pyc",
+    "lib/python2.7/site-packages/pdfminer/converter.py",
+    "lib/python2.7/site-packages/pdfminer/converter.pyc",
+    "lib/python2.7/site-packages/pdfminer/encodingdb.py",
+    "lib/python2.7/site-packages/pdfminer/encodingdb.pyc",
+    "lib/python2.7/site-packages/pdfminer/fontmetrics.py",
+    "lib/python2.7/site-packages/pdfminer/fontmetrics.pyc",
+    "lib/python2.7/site-packages/pdfminer/glyphlist.py",
+    "lib/python2.7/site-packages/pdfminer/glyphlist.pyc",
+    "lib/python2.7/site-packages/pdfminer/image.py",
+    "lib/python2.7/site-packages/pdfminer/image.pyc",
+    "lib/python2.7/site-packages/pdfminer/latin_enc.py",
+    "lib/python2.7/site-packages/pdfminer/latin_enc.pyc",
+    "lib/python2.7/site-packages/pdfminer/layout.py",
+    "lib/python2.7/site-packages/pdfminer/layout.pyc",
+    "lib/python2.7/site-packages/pdfminer/lzw.py",
+    "lib/python2.7/site-packages/pdfminer/lzw.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdfcolor.py",
+    "lib/python2.7/site-packages/pdfminer/pdfcolor.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdfdevice.py",
+    "lib/python2.7/site-packages/pdfminer/pdfdevice.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdfdocument.py",
+    "lib/python2.7/site-packages/pdfminer/pdfdocument.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdffont.py",
+    "lib/python2.7/site-packages/pdfminer/pdffont.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdfinterp.py",
+    "lib/python2.7/site-packages/pdfminer/pdfinterp.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdfpage.py",
+    "lib/python2.7/site-packages/pdfminer/pdfpage.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdfparser.py",
+    "lib/python2.7/site-packages/pdfminer/pdfparser.pyc",
+    "lib/python2.7/site-packages/pdfminer/pdftypes.py",
+    "lib/python2.7/site-packages/pdfminer/pdftypes.pyc",
+    "lib/python2.7/site-packages/pdfminer/psparser.py",
+    "lib/python2.7/site-packages/pdfminer/psparser.pyc",
+    "lib/python2.7/site-packages/pdfminer/rijndael.py",
+    "lib/python2.7/site-packages/pdfminer/rijndael.pyc",
+    "lib/python2.7/site-packages/pdfminer/runlength.py",
+    "lib/python2.7/site-packages/pdfminer/runlength.pyc",
+    "lib/python2.7/site-packages/pdfminer/utils.py",
+    "lib/python2.7/site-packages/pdfminer/utils.pyc"
+  ],
+  "fn": "pdfminer-20140328-py27_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/home/thebrainer/anaconda3/pkgs/pdfminer-20140328-py27_0",
+    "type": 1
+  },
+  "md5": "82c3f544779f6b50c9130f070a7307fb",
+  "name": "pdfminer",
+  "package_tarball_full_path": "/home/thebrainer/anaconda3/pkgs/pdfminer-20140328-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/dumppdf.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256_in_prefix": "9e43594f7d8ffe14df04310e553a3e3541a78166d6743185bd67b417c8805c3f"
+      },
+      {
+        "_path": "bin/dumppdf.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "bin/latin2ascii.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256_in_prefix": "9e0df7dcb22aac4c17166dba6b70ebe5ccfb37674f9624695a7a7b0922a5b681"
+      },
+      {
+        "_path": "bin/latin2ascii.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "bin/pdf2txt.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256_in_prefix": "85d57944b1d83d4a80201108df311bf7bffee3265df318885b5f2d8470d6ed5e"
+      },
+      {
+        "_path": "bin/pdf2txt.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer-20140328-py2.7.egg-info",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/arcfour.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/arcfour.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/ascii85.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/ascii85.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/ccitt.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/ccitt.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/cmapdb.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/cmapdb.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/converter.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/converter.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/encodingdb.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/encodingdb.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/fontmetrics.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/fontmetrics.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/glyphlist.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/glyphlist.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/image.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/image.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/latin_enc.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/latin_enc.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/layout.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/layout.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/lzw.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/lzw.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfcolor.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfcolor.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfdevice.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfdevice.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfdocument.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfdocument.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdffont.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdffont.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfinterp.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfinterp.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfpage.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfpage.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfparser.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdfparser.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdftypes.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/pdftypes.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/psparser.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/psparser.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/rijndael.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/rijndael.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/runlength.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/runlength.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/utils.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pdfminer/utils.pyc",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "pdfminer",
+  "size": 234187,
+  "subdir": "linux-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/pdfminer-20140328-py27_0.tar.bz2",
+  "version": "20140328"
+}
