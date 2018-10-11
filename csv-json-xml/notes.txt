@@ -1,0 +1,4 @@
+In the csv case, we opened the file in read only mode, but in json example, we are reading the contents of the file in the json_data variable. In the csv example, we are reading the contents of the file into our json_data variable.
+In the json files, the data is stored in key/value pairs while in xml the data is stored in between the tags such that the value of the tag  is inside and the extra information is stored inside in a tree struture.
+
+To traverse the xml tree we start at the root of the xml site structure.
