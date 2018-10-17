@@ -1,0 +1,101 @@
+{
+  "arch": "x86_64",
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "/home/thebrainer/anaconda3/pkgs/pysocks-1.6.8-py27_0",
+  "features": "",
+  "files": [
+    "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/top_level.txt",
+    "lib/python2.7/site-packages/socks.py",
+    "lib/python2.7/site-packages/socks.pyc",
+    "lib/python2.7/site-packages/sockshandler.py",
+    "lib/python2.7/site-packages/sockshandler.pyc"
+  ],
+  "fn": "pysocks-1.6.8-py27_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/thebrainer/anaconda3/pkgs/pysocks-1.6.8-py27_0",
+    "type": 1
+  },
+  "md5": "89b5047703f68a5db1a44b1a896738f8",
+  "name": "pysocks",
+  "package_tarball_full_path": "/home/thebrainer/anaconda3/pkgs/pysocks-1.6.8-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "703cf35db028ee353aadb501bc92b9d46bf3ae9763b179792c92479ff5f8a358",
+        "sha256_in_prefix": "703cf35db028ee353aadb501bc92b9d46bf3ae9763b179792c92479ff5f8a358",
+        "size_in_bytes": 504
+      },
+      {
+        "_path": "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "2700fd398d87ef9b4a3c7f9bd281c12975e7ffb7199ca96417ced7cb08779eba",
+        "sha256_in_prefix": "2700fd398d87ef9b4a3c7f9bd281c12975e7ffb7199ca96417ced7cb08779eba",
+        "size_in_bytes": 288
+      },
+      {
+        "_path": "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python2.7/site-packages/PySocks-1.6.8-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "sha256_in_prefix": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "lib/python2.7/site-packages/socks.py",
+        "path_type": "hardlink",
+        "sha256": "c2857917ed2fb105f1cfead085cd2fd5302ca20da9c9acf6ecbfb25bca22b15a",
+        "sha256_in_prefix": "c2857917ed2fb105f1cfead085cd2fd5302ca20da9c9acf6ecbfb25bca22b15a",
+        "size_in_bytes": 32281
+      },
+      {
+        "_path": "lib/python2.7/site-packages/socks.pyc",
+        "path_type": "hardlink",
+        "sha256": "95f376331806b0157fd10070e69fe1bf240d47bb3c6a119c240c0b13d91f38f3",
+        "sha256_in_prefix": "95f376331806b0157fd10070e69fe1bf240d47bb3c6a119c240c0b13d91f38f3",
+        "size_in_bytes": 26952
+      },
+      {
+        "_path": "lib/python2.7/site-packages/sockshandler.py",
+        "path_type": "hardlink",
+        "sha256": "10dc1450edefb7ce3fd7244702ad40d78ed32ff4c0b85bb1dadff542f355d95a",
+        "sha256_in_prefix": "10dc1450edefb7ce3fd7244702ad40d78ed32ff4c0b85bb1dadff542f355d95a",
+        "size_in_bytes": 2913
+      },
+      {
+        "_path": "lib/python2.7/site-packages/sockshandler.pyc",
+        "path_type": "hardlink",
+        "sha256": "2deb0294b08915813aaa51284ed292bee307e8a49adada4ab345af4b0080e848",
+        "sha256_in_prefix": "2deb0294b08915813aaa51284ed292bee307e8a49adada4ab345af4b0080e848",
+        "size_in_bytes": 4485
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "None",
+  "size": 22522,
+  "subdir": "linux-64",
+  "timestamp": 1519749372651,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/anaconda/linux-64/pysocks-1.6.8-py27_0.tar.bz2",
+  "version": "1.6.8"
+}
