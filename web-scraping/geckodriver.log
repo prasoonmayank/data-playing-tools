@@ -1,0 +1,156 @@
+1539851526714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4s3V4ixqx1n9"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539851531158	Marionette	INFO	Listening on port 36373
+1539851531233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539851531298	Marionette	DEBUG	[2147483649] Frame script loaded
+1539851531299	Marionette	DEBUG	[2147483649] Frame script registered
+1539851531344	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539851535716	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539851538102	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.fairphone.com/en/community/
+1539851545290	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.fairphone.com/en/community/
+1539851545314	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539851545314	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 5945, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539851546103	Marionette	INFO	Stopped listening on port 36373
+1539851907685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GcAIvPKTkAGJ"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539851911038	Marionette	INFO	Listening on port 35347
+1539851911097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539851911161	Marionette	DEBUG	[2147483649] Frame script loaded
+1539851911162	Marionette	DEBUG	[2147483649] Frame script registered
+1539851911207	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539851915875	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539851918050	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.fairphone.com/en/community/
+1539851925915	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.fairphone.com/en/community/
+1539851952762	Marionette	DEBUG	[4294967297] Frame script loaded
+1539851952763	Marionette	DEBUG	[4294967297] Frame script registered
+1539851952794	Marionette	DEBUG	[4294967299] Frame script loaded
+1539851952795	Marionette	DEBUG	[4294967299] Frame script registered
+[Parent 6303, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539851957707	Marionette	INFO	Stopped listening on port 35347
+1539851961440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y14VVbukymr6"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539851964520	Marionette	INFO	Listening on port 41085
+1539851964550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539851964630	Marionette	DEBUG	[2147483649] Frame script loaded
+1539851964637	Marionette	DEBUG	[2147483649] Frame script registered
+1539851964701	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539851968215	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539851970051	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.fairphone.com/en/community/
+1539851984394	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.fairphone.com/en/community/
+1539852008644	Marionette	DEBUG	[2147483655] Frame script loaded
+1539852008684	Marionette	DEBUG	[2147483655] Frame script registered
+1539852008724	Marionette	DEBUG	[2147483657] Frame script loaded
+1539852008725	Marionette	DEBUG	[2147483657] Frame script registered
+[Parent 6722, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539852123239	Marionette	INFO	Stopped listening on port 41085
+1539852226393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yES0bI05Peo4"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539852229953	Marionette	INFO	Listening on port 43439
+1539852230009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539852230095	Marionette	DEBUG	[2147483649] Frame script loaded
+1539852230096	Marionette	DEBUG	[2147483649] Frame script registered
+1539852230113	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539852231055	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://vmigrate.ca/, line 850: TypeError: text1 is undefined
+1539852232779	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://vmigrate.ca/
+1539852248115	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://vmigrate.ca/
+1539852292247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4IdVCIILmK68"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539852295205	Marionette	INFO	Listening on port 46181
+1539852295267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539852295336	Marionette	DEBUG	[2147483649] Frame script loaded
+1539852295360	Marionette	DEBUG	[2147483649] Frame script registered
+1539852295399	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539852295939	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://vmigrate.ca/, line 850: TypeError: text1 is undefined
+1539852304257	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://vmigrate.ca/
+1539852313252	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://vmigrate.ca/
+[Parent 7271, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539852355210	Marionette	INFO	Stopped listening on port 46181
+[Parent 7050, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539852357739	Marionette	INFO	Stopped listening on port 43439
+1539852684082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oIalb56dbyZ4"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539852687437	Marionette	INFO	Listening on port 35995
+1539852687491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539852687547	Marionette	DEBUG	[2147483649] Frame script loaded
+1539852687556	Marionette	DEBUG	[2147483649] Frame script registered
+1539852687598	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539852688626	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539852691354	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://duckduckgo.com/?q=fun+thing&ia=web
+1539852693828	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://duckduckgo.com/?q=fun+thing&ia=web
+1539852765978	Marionette	INFO	Stopped listening on port 35995
+1539852769760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m78u5CPh4zap"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539852772987	Marionette	INFO	Listening on port 44553
+1539852773071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539852773125	Marionette	DEBUG	[2147483649] Frame script loaded
+1539852773126	Marionette	DEBUG	[2147483649] Frame script registered
+1539852773181	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539852774613	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539852776061	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://duckduckgo.com/?q=fun+thing&ia=web
+1539852777625	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://duckduckgo.com/?q=fun+thing&ia=web
+[Parent 7882, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539852803704	Marionette	INFO	Stopped listening on port 44553
+1539853620174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gMWOL4mPziF0"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539853623481	Marionette	INFO	Listening on port 39355
+1539853623496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539853623575	Marionette	DEBUG	[2147483649] Frame script loaded
+1539853623576	Marionette	DEBUG	[2147483649] Frame script registered
+1539853623610	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539853624623	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://justfreetemplates.com/wordpress-themes/preview/3505.html, line 41: TypeError: iframe is null
+1539853624672	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://justfreetemplates.com/wordpress-themes/preview/3505.html
+1539853637973	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://justfreetemplates.com/wordpress-themes/preview/3505.html
+1539853638009	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://justfreetemplates.com/wordpress-themes/preview/3505.html
+1539853638331	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://justfreetemplates.com/wordpress-themes/preview/3505.html
+1539853638362	Marionette	DEBUG	[2147483649] Received DOM event unload for http://justfreetemplates.com/wordpress-themes/preview/3505.html
+1539853638401	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://sketchthemes.com/preview/assets/avis/
+1539853638456	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539853638631	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://sketchthemes.com/preview/assets/avis/
+JavaScript error: http://justfreetemplates.com/wordpress-themes/preview/3505.html, line 41: TypeError: iframe is null
+JavaScript error: http://justfreetemplates.com/wordpress-themes/preview/3505.html, line 41: TypeError: iframe is null
+[Parent 8597, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539853700920	Marionette	INFO	Stopped listening on port 39355

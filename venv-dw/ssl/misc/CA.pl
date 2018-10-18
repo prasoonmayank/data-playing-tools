@@ -1,4 +1,4 @@
-#!/tmp/build/80754af9/openssl_1534253368872/_build_env/bin/perl
+#!/home/conda/feedstock_root/build_artifacts/openssl_1539352702941/_build_env/bin/perl
 #
 # CA - wrapper around ca to make it easier to use ... basically ca requires
 #      some setup stuff to be done before you can use it and this makes

@@ -1,0 +1,12 @@
+1539851476609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZHApX5p6zyg4"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1539851480936	Marionette	INFO	Listening on port 38631
+1539851481024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539851481080	Marionette	DEBUG	[2147483649] Frame script loaded
+1539851481138	Marionette	DEBUG	[2147483649] Frame script registered
+1539851498484	Marionette	INFO	Stopped listening on port 38631
